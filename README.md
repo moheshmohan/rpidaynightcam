@@ -10,7 +10,7 @@ switch between user specified night and day mode settings.
 
 You can read more about the usage and working in my blog page here
 
-http://h4hacks.com
+http://www.h4hacks.com/2015/06/shooting-awesome-timelapse-using.html
 
 ## License
 
